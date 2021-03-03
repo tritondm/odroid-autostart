@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name="chrome"
+#Exec=/usr/bin/chromium-browser --start-fullscreen https://www.solarweb.com/Home/GuestLogOn?pvSystemid=59cf9d16-f8af-4a3a-9037-233326c2c318
+Exec=/home/odroid/rchrome.bash
